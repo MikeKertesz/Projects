@@ -64,8 +64,13 @@ The correlation heatmap shows relationship of Sales, Profit, and Profit Margin w
 6. Key Insights
 
 1- The Dataset was already clean, and I searched for and found nothing wrong. I looked at using describe, info, and duplicated functions
+
 2- With graphical analysis, I found that besides the sales being well distributed in the categories, technology was the most profitable representation, and the most outliers of high sales.
+
 3- Sales and Profit across the regions are very correlated.
+
 4-  Canon imageClass 2200 advanced Copier is the most sold and profitable product of the company, the rest and more evenly distributed. 
+
 5- Going to the ABC curve, some problems were found, the best client has a negative profit, and some other clients to, which need to be addressed. 
+
 6 - Analysing the correlation between the key columns with sales, profit, and profit margin, the most notable were: correlation of sub-category copiers with sales and profit, sub-category papel is negative with sales but positive in margin, the central region has negative correlation with margin, but the west is positive. 
